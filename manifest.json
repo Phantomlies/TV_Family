@@ -1,9 +1,9 @@
 {
   "format": 1,
   "repo": "Phantomlies/xiaomytv-family",
-  "serial": 1793915946,
-  "note": "Камін за склом у меню заставки, заставка через 5 хв",
-  "createdAt": "2026-11-05T21:59:06.161Z",
+  "serial": 1793919353,
+  "note": "Новорічний камін на заставці",
+  "createdAt": "2026-11-05T22:55:53.153Z",
   "minApk": 31000,
   "web": {
     "bg/dawn.jpg": {
@@ -35,8 +35,8 @@
       "size": 921
     },
     "config.json": {
-      "sha256": "257a68d5d7570eed650220de9bbb216b1bef31fb474949bb41ad99fb99af5216",
-      "size": 2260
+      "sha256": "f899ec2b246232a5d39babe2531a38a8ec1cb40496698f7e322cb6f814aa41cc",
+      "size": 2436
     },
     "home.css": {
       "sha256": "fe7c3ebb5d0d15ba2aaee8dd51393d1f4b45fc17dbecc68cd1d041175addf9e4",
@@ -93,6 +93,10 @@
     "weather/storm.jpg": {
       "sha256": "1c46adff20e7ef89d1e5d7b7647bedca9626b1b1e2b3211989d7f507e14d2db7",
       "size": 43184
+    },
+    "media/fireplace-festive.mp4": {
+      "sha256": "27b82cb1025d177b9143590cc4c9acefd719b231bd339685b84b4950d41eaa58",
+      "size": 5831017
     },
     "media/fireplace-glass.webm": {
       "sha256": "1a1ed04fcfb346ba4d601babb445bb226cae0f9b97ec0d8ce68fc5ac2b52d7a6",
