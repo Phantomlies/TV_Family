@@ -25,9 +25,11 @@
     },
     "screensavers": [
       { "id": "fireplace", "title": "Камін", "video": "media/fireplace.webm", "clock": true, "credit": "Відео: free video library, CC BY 3.0" },
+      { "id": "fireplace-glass", "title": "Камін за склом", "video": "media/fireplace-glass.webm", "clock": true, "credit": "Відео: ArtHouse Studio, Pexels" },
       { "id": "map", "title": "Карта тривог", "url": "https://neptun.in.ua/embed/map", "script": "pages/neptun.js", "clock": true, "label": "NEPTUN · онлайн-моніторинг, не офіційне оповіщення", "reload": 15 }
     ],
     "screensaver": "fireplace",
+    "timers": { "screensaver": 5 },
     "queue": "3.1"
   },
   "kitchen": {

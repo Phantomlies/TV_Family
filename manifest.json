@@ -1,9 +1,9 @@
 {
   "format": 1,
   "repo": "Phantomlies/xiaomytv-family",
-  "serial": 1793382839,
-  "note": "Кухня: повідомлення для мами",
-  "createdAt": "2026-10-30T17:53:59.929Z",
+  "serial": 1793915946,
+  "note": "Камін за склом у меню заставки, заставка через 5 хв",
+  "createdAt": "2026-11-05T21:59:06.161Z",
   "minApk": 31000,
   "web": {
     "bg/dawn.jpg": {
@@ -35,8 +35,8 @@
       "size": 921
     },
     "config.json": {
-      "sha256": "a0d132baecf908e7c3b7ec013c4eebfdb5d77b58e20c1ac8d87bc8678ba61299",
-      "size": 2047
+      "sha256": "257a68d5d7570eed650220de9bbb216b1bef31fb474949bb41ad99fb99af5216",
+      "size": 2260
     },
     "home.css": {
       "sha256": "fe7c3ebb5d0d15ba2aaee8dd51393d1f4b45fc17dbecc68cd1d041175addf9e4",
@@ -93,6 +93,10 @@
     "weather/storm.jpg": {
       "sha256": "1c46adff20e7ef89d1e5d7b7647bedca9626b1b1e2b3211989d7f507e14d2db7",
       "size": 43184
+    },
+    "media/fireplace-glass.webm": {
+      "sha256": "1a1ed04fcfb346ba4d601babb445bb226cae0f9b97ec0d8ce68fc5ac2b52d7a6",
+      "size": 1578476
     },
     "media/fireplace.webm": {
       "sha256": "0d8094ccd902b986c16d453d7167664536b51978607a2c737e76f0220ce6bea5",
